@@ -6,7 +6,7 @@ public class HelloWorldString {
 	
 	public HelloWorldString()
 	{
-		
+		//this is comment nothing happens
 	}
 	public HelloWorldString(String output) {
 		this.outputVariable = output;
